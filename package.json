@@ -1,0 +1,25 @@
+{
+  "name": "react-animation-state",
+  "version": "0.0.0",
+  "description": "Programmatic animations for non-stateless React components, made easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasconita/react-animation-state.git"
+  },
+  "keywords": [
+    "react",
+    "animation",
+    "transition",
+    "state"
+  ],
+  "author": "Jose Cortés",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasconita/react-animation-state/issues"
+  },
+  "homepage": "https://github.com/vasconita/react-animation-state#readme"
+}
